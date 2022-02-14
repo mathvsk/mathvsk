@@ -1,6 +1,6 @@
 ### Oi, Me chamo Matheus 👋
 
-- 👀 Estou também procurando um estágio como dev, onde eu consiga aplicar meu conhecimento teórico e aprender com pessoas mais experientes.
+- 👀 Estou procurando um estágio como dev, onde eu consiga aplicar meu conhecimento teórico e aprender com pessoas mais experientes.
 
 ##
 
