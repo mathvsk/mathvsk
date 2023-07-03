@@ -7,8 +7,9 @@ In my free time, I am an enthusiast of the React ecosystem.
 
 Currently, I work as a full stack web developer, using VB.net, ASP.net, jQuery, and SQL Server.
 
-![Static Badge](https://img.shields.io/badge/matheus%20viscki-black?style=flat-square&logo=linkedin&logoColor=white&labelColor=%23d1d5db&color=%23fafaf9&link=linkedin.com%2Fin%2Fmatheus-viscki-907390163)
-
+[![Static Badge](https://img.shields.io/badge/matheus%20viscki-black?style=flat-square&logo=linkedin&logoColor=%2360a5fa&labelColor=%23fafaf9&color=%23fafaf9)](https://www.linkedin.com/in/matheus-viscki-907390163/)
+[![Static Badge](https://img.shields.io/badge/matheusviscki%40gmail.com-black?style=flat-square&logo=gmail&logoColor=%23f43f5e&labelColor=%23fafaf9&color=%23fafaf9)](mailto:matheusviscki@gmail.com)
+[![Static Badge](https://img.shields.io/badge/matheus.viscki-black?style=flat-square&logo=instagram&logoColor=%23c13584&labelColor=%23fafaf9&color=%23fafaf9)](https://www.instagram.com/)
 
 ## Languages and Tools
 
