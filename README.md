@@ -14,4 +14,3 @@ In my free time, I am an enthusiast of the React ecosystem.
 
 Currently, I work as a full stack web developer, using VB.net, ASP.net, jQuery, and SQL Server.
 
-![Snake animation](https://github.com/mathvsk/mathvsk/blob/output/github-contribution-grid-snake.svg)
